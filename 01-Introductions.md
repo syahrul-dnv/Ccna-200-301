@@ -81,10 +81,67 @@ Beberapa sumber, terkadang peralatan komunikasi pengetahuan, dikelola secara eks
 
 <b>Komunitas pembelanja server atau komunitas server-centric</b>  : komunitas server-klien mencakup peran yang diuraikan secara ketat. Menurut definisi, komunitas server-klien membatasi lokasi entitas mana yang dapat menerima permintaan atau melayani mereka. Saat ini, jaringan komputer pribadi yang paling populer adalah komunitas server-klien.
 
+ <table border="1" cellpadding="10">
+        <tr>
+        <th>Rekan Ke rekan</th> <th> Server Ke CLient</th>
+        </tr> 
+        <tr>
+            <td>Ini disebut kelompok kerja.</td>
+            <td>Itu disebut domain</td>
+        </tr>
+        <tr>
+            <td>Setiap mesin bekerja sebagai administrator &terhubung dalam jaringan peer to peer (komunikasi 1 ke 1)</td>
+            <td>Hanya satu mesin yang bertindak sebagai administrator dan yang lainnya adalah klien seperti model server terpusat.</td>
+        </tr>
+        <tr>
+            <td>Tidak ada manajemen terpusat	</td>
+            <td>Manajemen terpusat</td>
+        </tr>
+        <tr>
+            <td>Otentikasi lokal	</td>
+            <td>Otentikasi terpusat</td>
+        </tr>
+        <tr>
+            <td>Ini digunakan untuk jaringan kecil</td>
+            <td>Ini digunakan untuk jaringan besar</td>
+        </tr>
+        <tr>
+            <td>Hanya 20 mesin yang dapat dihubungkan secara bersamaan	</td>
+            <td>16777214 mesin dapat dihubungkan secara bersamaan</td>
+        </tr>
+        <tr>
+            <td>Setiap mesin memiliki klien OS Window XP, Vista, 7, 8, 10	</td>
+            <td>Satu OS server dan lainnya adalah OS klien Server 2000, 2003, 2008, 2012, 2016.</td>
+        </tr>
+
+    </table>
 
 
 
+<!--
+<pre>
+      <b>Rekan ke rekan	                                         Server ke klien</b>
 
+Ini disebut kelompok kerja.	                                     Itu disebut domain
+
+Setiap mesin bekerja sebagai administrator &                     Hanya satu mesin yang bertindak sebagai administrator dan
+terhubung dalam jaringan peer to peer (komunikasi 1 ke 1),	     yang lainnya adalah klien seperti model server terpusat.
+
+Tidak ada manajemen terpusat	                                   Manajemen terpusat
+
+Otentikasi lokal	                                               Otentikasi terpusat
+
+Ini digunakan untuk jaringan kecil	                             Ini digunakan untuk jaringan besar
+
+Hanya 20 mesin yang dapat dihubungkan secara bersamaan	         16777214 mesin dapat dihubungkan secara bersamaan
+
+Setiap mesin memiliki klien OS Window XP, Vista, 7, 8, 10	       Satu OS server dan lainnya adalah OS klien Server 2000, 2003, 2008, 2012, 2016.
+
+
+</pre>
+
+
+-->
 
 
 
