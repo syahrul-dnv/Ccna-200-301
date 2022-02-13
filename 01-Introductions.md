@@ -58,11 +58,28 @@ Mengirimkan untuk jarak pendek biasanya 10m.
 
 <b>Storage Area Network (SAN)</b> –   Jenis komunitas baru menggunakan hyperlink komunitas berkecepatan tinggi antara server di perusahaan dan berada di penyimpanan terpusat. Sideband hyperlink menghubungkan bagian SAN benar-benar terpisah dari komunitas yang menghubungkan pembelanja dan server untuk menawarkan manajemen terpusat melalui penyimpanan komunitas. Jauh lebih mahal.  
 
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1wKZw-tkCpyCeBQWOh-CsqOEBJkHZRilo"></p>
 
+<li>Entri cepat ke penyimpanan SAN.</li>
+<li>Cadangan dari satu lokasi.</li>
+<li>Tahap ekstra manajemen keselamatan dan entri.</li>
+<li>Lebih mudah untuk memperluas kemampuan penyimpanan.</li>
 
+<b>Metropolitan Area Network (MAN)</b> –  Dua atau lebih sistem komputer dihubungkan satu sama lain yang merupakan area geografis yang dipisahkan dan dihubungkan di seluruh kota metropolitan ke kota.
+Media telepon digunakan.
+Contoh:  Kampus Perguruan Tinggi.
 
+<b>Wide Area Network (WAN)</b> – Dua atau lebih sistem komputer dihubungkan satu sama lain yang merupakan wilayah geografis yang terpisah dan dihubungkan dengan kota ke metropolis atau negara ke negara.
+Media satelit digunakan.
 
+## Karakteristik WAN
+Bandwidth lebih rendah dibandingkan dengan LAN
+Biasanya saling berhubungan sejumlah LAN
+Berada di ruang geografis yang tak terbatas
+Beberapa sumber, terkadang peralatan komunikasi pengetahuan, dikelola secara eksternal untuk organisasi yang menggunakan sumber daya tersebut
+<b>Komunitas peer to see</b>: Komunitas   peer to see mengizinkan entitas apa pun untuk setiap permintaan dan pemasok perusahaan komunitas. Program perangkat lunak komunitas peer to see dirancang agar teman-teman menjalankan fitur yang identik atau terkait satu sama lain.
 
+<b>Komunitas pembelanja server atau komunitas server-centric</b>  : komunitas server-klien mencakup peran yang diuraikan secara ketat. Menurut definisi, komunitas server-klien membatasi lokasi entitas mana yang dapat menerima permintaan atau melayani mereka. Saat ini, jaringan komputer pribadi yang paling populer adalah komunitas server-klien.
 
 
 
