@@ -96,7 +96,43 @@ Ada dua jenis media transmisi:
         </tr>
  </table>
 
+Kabel UTP diklasifikasikan menurut kategorinya. Kategori kabel UTP disingkat menjadi CAT.
 
+<b>Kategori 1 (CAT 1)</b>
+Dua pasang, kabel twisted pair empat kawat adalah kabel kategori 1. Ini mendukung sinyal terbatas pada rentang frekuensi 1 MHz.
+
+<b>Kategori 2 (CAT 2)</b>
+Empat pasang, delapan kabel kabel twisted pair adalah kabel kategori 2 yang menangani hingga 4 Mbps, dengan batasan frekuensi 10MHz.
+
+<b>Kategori 3 (CAT 3)</b>
+empat pasang, delapan kawat kabel twisted pair dengan tiga lilitan per kaki adalah kabel kategori 3 yang dapat menangani transmisi hingga 16MHz. Koneksi Ethernet hingga 10 Mbps.
+
+<b>Kategori 4 (CAT 4)</b>
+Empat pasang, delapan kawat kabel twisted pair kategori 4 dengan batasan frekuensi 20MHz yang digunakan di jaringan Token Ring 16 Mbps. Kategorinya juga sudah usang.
+
+<b>Kategori 5 (CAT 5)</b>
+Empat pasang, delapan kawat kabel twisted pair kategori 5 dengan batasan frekuensi 100MHz menggunakan untuk 100Base-TX Fast Ethernet.
+Kategori 5e (ditingkatkan)
+Empat pasang, delapan kabel kabel twisted pair kategori 5e dengan batasan frekuensi 100MHz. dapat digunakan untuk 100Base-T (Gigabit Ethernet).
+
+<b>Kategori 6 (CAT 6)</b>
+Empat pasang, delapan kawat kabel twisted pair kategori 6 dengan batasan frekuensi 250MHz. Ini juga digunakan untuk 100Base-T (Gigabit Ethernet).
+
+### Standar Pengkabelan
+Standar pengkabelan digunakan untuk mengatur kabel Ethernet sesuai dengan koneksinya antara perangkat yang serupa atau berbeda.
+
+<b>Ada tiga jenis kabel Ethernet yang tersedia</b>
+1.Kabel lurus
+2. Kabel crossover
+3. Kabel digulung
+
+T-568A dan T568B adalah dua standar pengkabelan untuk kabel data konektor RJ-45 yang ditentukan oleh dokumen standar pengkabelan TIA/EIA-568-A. Dua standar pengkabelan digunakan untuk membuat kabel cross-over di mana T-568-A digunakan di satu ujung dan t-568B di ujung lainnya. Pada kabel straight-through di mana pada kedua ujungnya Anda dapat menggunakan standar kabel T568A atau T-568B.
+
+<b>Kabel straight-through</b>: Digunakan untuk menghubungkan perangkat yang berbeda seperti komputer ke switch, komputer ke hub.
+
+<b>Kabel Crossover</b>: Digunakan untuk menghubungkan perangkat serupa seperti komputer ke komputer, hub ke hub, switch ke switch.
+
+<b>Kabel rollover</b>: Kabel rollover adalah kabel jaringan yang menghubungkan terminal komputer ke port konsol router jaringan.
 
 
 
