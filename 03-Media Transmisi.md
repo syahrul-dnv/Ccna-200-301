@@ -11,4 +11,18 @@ Sebuah transmisi dapat berupa <b>simplex, half-duplex atau full-duplex.</b>
 <li>Dalam transmisi <b>full-duplex</b>, kedua perangkat dapat mengirim dan menerima secara bersamaan, misalnya di telepon pengguna dapat berbicara sekaligus mendengarkan pada saat yang bersamaan. Oleh karena itu dalam transmisi full-duplex, media membawa sinyal di kedua arah pada waktu yang sama.</li>
 </ul>
 
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1bewHtrVwCss5nUgViZKbq2AVkv6iD1Ef"></p>
 
+Ada dua jenis media transmisi:
+
+1. Kabel. 
+2. Nirkabel.
+
+<b>Media kabel</b>: Media transmisi yang dapat dilihat secara fisik dan memiliki saluran terbatas yang tepat untuk mengalirkan sinyal.
+
+
+
+<b>Jenis media transmisi kabel</b>:                       
+1. Kabel Coaxial 
+2. Kabel Twisted Pair 
+3. Kabel Fiber Optik
