@@ -24,12 +24,47 @@ Jaringan paling jelas diuraikan sebagai "sistem komunikasi - <b>komputer yang ad
 ## Persyaratan Jaringan.
 Ada dua persyaratan.
 
-1) Kebutuhan fisik.
+1. Kebutuhan fisik.
 <li>Dua atau ekstra sistem komputer.</li>
 <li>kartu LAN.</li>
 <li>Kabel LAN dengan konektor RJ45.</li>
 <li>Perangkat terpusat (switch, router, hub.)</li>
-
-2) Persyaratan logis.
+<br>
+2. Persyaratan logis.
 <li>Sistem Operasi (OS klien bukan server Microsoft atau server Linux ) diinstal dengan driver LAN.</li>
 <li>Alamat IP.</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
