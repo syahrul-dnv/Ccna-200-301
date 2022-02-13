@@ -20,8 +20,6 @@ Ada dua jenis media transmisi:
 
 <b>Media kabel</b>: Media transmisi yang dapat dilihat secara fisik dan memiliki saluran terbatas yang tepat untuk mengalirkan sinyal.
 
-
-
 <b>Jenis media transmisi kabel</b>:                       
 1. Kabel Coaxial 
 2. Kabel Twisted Pair 
@@ -34,7 +32,24 @@ Ada dua jenis media transmisi:
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=1pmeSLLeMzQqfNg5RPjheKSmFCK4LemCC"></p>
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=1zrOWa0iUmKy7Ziwen-hT84bKKJtPtcpg"></p>
 
+<b>Kabel Silang Kabel Lurus Umum</b>
+<ul>
+  <li>OW OW GW</li>
+  <li>O O G</li>
+  <li>GW GW OW  </li>  
+  <li>B B B</li>
+  <li>BW BW BW</li>
+  <li>G GO O</li>
+  <li>BR.W BR.W BR.W</li>
+  <li>BR BR BR</li>
+</ul>
 
+<b>Media Nirkabel</b>: Media transmisi nirkabel adalah media di mana sinyal data ditransmisikan melalui udara. Mereka tidak dipandu atau terikat pada saluran untuk diikuti.
+
+<b>Jenis media Transmisi nirkabel:</b>
+
+1. Transmisi Radio \
+2. Transmisi Gelombang Mikro
 
 
 
