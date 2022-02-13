@@ -48,9 +48,10 @@ Ada dua jenis media transmisi:
 
 <b>Jenis media Transmisi nirkabel:</b>
 
-1. Transmisi Radio \
+1. Transmisi Radio
 2. Transmisi Gelombang Mikro
 
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=14m_sJy2YiX8xp0t5MNWaSrrtdPAiCJS2"></p>
 
 
 
