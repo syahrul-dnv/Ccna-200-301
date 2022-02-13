@@ -26,3 +26,22 @@ Ada dua jenis media transmisi:
 1. Kabel Coaxial 
 2. Kabel Twisted Pair 
 3. Kabel Fiber Optik
+
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1uJhifmCyK3kJahtOoeDkl0NyKMTXNIA6"></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1RnYDPoKikUvcxhdncHHFfLvtCafpKiAg"></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1fbb4c7BwVw4lFl1OWcBe5LYa3ohd2xas"></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1cIypUIWwQl9tjNog9y-uPOe_RRFdCMdb"></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1pmeSLLeMzQqfNg5RPjheKSmFCK4LemCC"></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1zrOWa0iUmKy7Ziwen-hT84bKKJtPtcpg"></p>
+
+
+
+
+
+
+
+
+
+
+
+
