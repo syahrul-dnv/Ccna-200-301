@@ -38,8 +38,25 @@ Ada dua persyaratan.
 <h1 align="center"> Jenis Jaringan Komputer. </h1>
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=1s7rreWKkx1zB-hAPaU_xbOfGNJgPzej-"></p>
 
+<b>Jaringan Area Lokal (LAN)</b> -  Jaringan Area Lokal adalah jaringan komputer yang mencakup ruang tubuh kecil seperti rumah, tempat kerja, atau sekelompok kecil bangunan.
+Ini mengacu pada kombinasi {perangkat keras} komputer dan media transmisi yang juga relatif kecil.
+Beberapa teknologi LAN adalah Ethernet, Token Ring, dan FDDI. Ethernet sejauh ini merupakan teknologi LAN kabel yang paling disukai.
+Mengirimkan untuk jarak pendek biasanya 100m.
 
+## Karakteristik LAN
 
+<li>Ruang geografis terbatas</li>
+<li>Sedang hingga kecepatan data tinggi</li>
+<li>media murah</li>
+<li>Konektivitas dan entri tinggi</li>
+<li>Manajemen terdesentralisasi</li>
+
+<b>Personal Area Network (PAN)</b> – Teknologi jaringan jarak pendek yang menggunakan tubuh untuk mengirimkan peringatan melalui perangkat yang dipakai atau tersedia dalam kontak tertutup, seperti: Bluetooth Seluler.
+Mengirimkan untuk jarak pendek biasanya 10m.
+
+<b>Campus Area Network (CAN)</b> –   Campus Area Network adalah jaringan komputer yang terdiri dari interkoneksi LAN dalam ruang geografis terbatas. Ini dapat dianggap sebagai salah satu jenis Metropolitan Area Network (MAN) khusus untuk metropolis instruksional.
+
+<b>Storage Area Network (SAN)</b> –   Jenis komunitas baru menggunakan hyperlink komunitas berkecepatan tinggi antara server di perusahaan dan berada di penyimpanan terpusat. Sideband hyperlink menghubungkan bagian SAN benar-benar terpisah dari komunitas yang menghubungkan pembelanja dan server untuk menawarkan manajemen terpusat melalui penyimpanan komunitas. Jauh lebih mahal.  
 
 
 
