@@ -53,7 +53,8 @@ Ada dua jenis media transmisi:
 
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=14m_sJy2YiX8xp0t5MNWaSrrtdPAiCJS2"></p>
 
- <table border="1" cellpadding="10">
+<b>Perbedaan Kabel STP & UTP</b>
+ <table align="center" border="1" cellpadding="10">
         <tr>
         <th>STP</th> <th>UTP</th>
         </tr> 
