@@ -22,3 +22,6 @@ Ada dua jenis topologi jaringan .
 <b>Topologi Star</b>: Topologi star menggunakan perangkat terpusat (hub, switch) yang menghubungkan semua komputer dengan bantuan kabel twisted pair. Setiap perangkat jaringan memiliki tautan point-to-point khusus ke perangkat terpusat. Tidak ada hubungan langsung antara komputer ini dan komputer dapat berkomunikasi melalui perangkat terpusat saja. Strategi ini mencegah tabrakan yang merepotkan dan menjaga jalur komunikasi tetap terbuka dan bebas dari lalu lintas. Topologi star adalah salah satu topologi terbaik dan paling banyak digunakan dalam jaringan .
 
 Contoh Topologi Star: jika satu komputer A ingin mengirim data ke komputer lain B, komputer A mengirimkan data ke perangkat terpusat dan perangkat ini kemudian mengirimkan data ke komputer B.
+
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1XqdIDyd9umPjbW7gEdjdeEXzG7LvsJjp"></p>
+
