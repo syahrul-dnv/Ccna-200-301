@@ -53,7 +53,47 @@ Ada dua jenis media transmisi:
 
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=14m_sJy2YiX8xp0t5MNWaSrrtdPAiCJS2"></p>
 
-
+ <table border="1" cellpadding="10">
+        <tr>
+        <th>STP</th> <th>UTP</th>
+        </tr> 
+        <tr>
+            <td>Ini digunakan untuk jaringan telepon	</td>
+            <td>Ini digunakan untuk jaringan komputer</td>
+        </tr>
+        <tr>
+            <td>2 pasang kabel	</td>
+            <td>4 pasang kabel	</td>
+        </tr>
+        <tr>
+            <td>Itu berarti ia memiliki 4 kabel	</td>
+            <td>Ini memiliki 8 kabel</td>
+        </tr>
+        <tr>
+            <td>Kurang EMI	</td>
+            <td>EMI Lainya</td>
+        </tr>
+        <tr>
+            <td>Konektor yang digunakan dalam STP adalah RJ-11</td>
+            <td>Konektor RJ-45 digunakan dalam UTP</td>
+        </tr>
+        <tr>
+            <td>Kecepatan 10 hingga 100 Mbps</td>
+            <td>Kecepatan 10 hingga 1000 Mbps</td>
+        </tr>
+        <tr>
+            <td>Biaya rata-rata per node cukup mahal</td>
+            <td>Biaya rata-rata per node paling murah</td>
+        </tr>
+        <tr>
+            <td>Ukuran media dan konektor sedang hingga besar</td>
+            <td>	Ukuran media dan konektornya kecil</td>
+        </tr>
+        <tr>
+            <td>Panjang kabel maksimum adalah 100 m</td>
+            <td>Panjang kabel maksimum adalah 100 m</td>
+        </tr>
+ </table>
 
 
 
