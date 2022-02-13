@@ -35,6 +35,9 @@ Ada dua persyaratan.
 <li>Alamat IP.</li>
 
 
+<h1 align="center"> Jenis Jaringan Komputer. </h1>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1s7rreWKkx1zB-hAPaU_xbOfGNJgPzej-"></p>
+
 
 
 
