@@ -22,3 +22,43 @@ Tolong Jangan Buang Pizza Sosis
 Semua Orang Tampaknya Membutuhkan Pemrosesan Data
 
 
+ <table border="1" cellpadding="10">
+        <tr> 
+          <th>Layers</th> <th>Sender</th> <th>Receiver </th>
+        </tr> 
+        <tr>
+            <td>Application</td>
+            <td>Away</td>
+            <td>All</td>
+        </tr>
+        <tr>
+            <td>Presentation</td>
+            <td>Pizza</td>
+            <td>People</td>
+        </tr>
+        <tr>
+            <td>Session</td>
+            <td>Sausage</td>\
+            <td>Seems</td>
+        </tr>
+        <tr>
+            <td>Transfort</td>
+            <td>Throw</td>
+            <td>To</td>
+        </tr>
+        <tr>
+            <td>Network</td>
+            <td>Not</td>
+            <td>Need</td>
+        </tr>
+        <tr>
+            <td>Data Link</td>
+            <td>Do</td>
+            <td>Data</td>
+        </tr>
+        <tr>
+            <td>Physical</td>
+            <td>Please</td>
+            <td>processing</td>
+        </tr>
+ </table>
