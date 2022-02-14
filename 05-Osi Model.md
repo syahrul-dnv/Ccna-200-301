@@ -7,13 +7,13 @@ Contoh: lapisan yang memberikan komunikasi bebas kesalahan di seluruh komunitas 
 Manekin OSI memiliki tujuh lapisan hierarkis. Setiap lapisan menggambarkan komunitas khusus yang melakukan. Lapisan tersebut adalah:
 
 <ul>
-  <li>Aplikasi
-  <li>Presentasi</li>
-  <li>Sidang</li>
-  <li>Mengangkut</li>
-  <li>Jaringan</li
-  <li>Hubungan data</li>
-  <li>Fisik</li>   
+  <li>Application</li>
+  <li>Presentation</li>
+  <li>Session</li>
+  <li>TRansport</li>
+  <li>Network</li
+  <li>Data-link</li>
+  <li>Physical</li>   
 </ul>
 
 Lapisan biasanya diberi nomor dari yang terakhir, yang menandakan bahwa lapisan tubuh adalah lapisan utama. Sebuah mnemonic dapat digunakan untuk mengingat tujuh lapisan:
