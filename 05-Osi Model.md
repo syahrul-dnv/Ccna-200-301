@@ -59,7 +59,7 @@ Semua Orang Tampaknya Membutuhkan Pemrosesan Data
         <tr>
             <td>Physical</td>
             <td>Please</td>
-            <td>Hub, NIC, Cable</td>
+            <td></td>
         </tr>
  </table>
  
@@ -101,7 +101,7 @@ Semua Orang Tampaknya Membutuhkan Pemrosesan Data
         <tr>
             <td>Physical</td>
             <td>Bits</td>
-            <td>processing</td>
+            <td>Hub, NIC, Cable</td>
         </tr>
  </table>
 
