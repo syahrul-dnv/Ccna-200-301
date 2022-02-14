@@ -10,7 +10,7 @@ Manekin OSI memiliki tujuh lapisan hierarkis. Setiap lapisan menggambarkan komun
   <li>Application</li>
   <li>Presentation</li>
   <li>Session</li>
-  <li>TRansport</li>
+  <li>Transport</li>
   <li>Network</li
   <li>Data-link</li>
   <li>Physical</li>   
