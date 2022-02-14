@@ -91,7 +91,7 @@ Semua Orang Tampaknya Membutuhkan Pemrosesan Data
         <tr>
             <td>Network</td>
             <td>Packet</td>
-            <td>Need</td>
+            <td>Need</td> 
         </tr>
         <tr>
             <td>Data Link</td>
