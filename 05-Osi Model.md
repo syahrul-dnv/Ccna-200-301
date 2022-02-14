@@ -16,4 +16,8 @@ Manekin OSI memiliki tujuh lapisan hierarkis. Setiap lapisan menggambarkan komun
   <li>Fisik</li>   
 </ul>
 
+Lapisan biasanya diberi nomor dari yang terakhir, yang menandakan bahwa lapisan tubuh adalah lapisan utama. Sebuah mnemonic dapat digunakan untuk mengingat tujuh lapisan:
+
+Tolong Jangan Buang Pizza Sosis
+Semua Orang Tampaknya Membutuhkan Pemrosesan Data
 
