@@ -49,17 +49,17 @@ Semua Orang Tampaknya Membutuhkan Pemrosesan Data
         <tr>
             <td>Network</td>
             <td>Not</td>
-            <td>Need</td>
+            <td>Router, Layer 3 Switch</td>
         </tr>
         <tr>
             <td>Data Link</td>
             <td>Do</td>
-            <td>Data</td>
+            <td>Switch, Bridge</td>
         </tr>
         <tr>
             <td>Physical</td>
             <td>Please</td>
-            <td>processing</td>
+            <td>Hub, NIC, Cable</td>
         </tr>
  </table>
  
