@@ -22,7 +22,8 @@ Tolong Jangan Buang Pizza Sosis
 Semua Orang Tampaknya Membutuhkan Pemrosesan Data
 
 
- <table align="center">border="1" cellpadding="10">
+ <table align="center"border="1" cellpadding="10">
+  
         <tr> 
           <th>Layers</th> <th>Sender</th> <th>Receiver </th>
         </tr> 
@@ -38,7 +39,7 @@ Semua Orang Tampaknya Membutuhkan Pemrosesan Data
         </tr>
         <tr>
             <td>Session</td>
-            <td>Sausage</td>\
+            <td>Sausage</td>
             <td>Seems</td>
         </tr>
         <tr>
