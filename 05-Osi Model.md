@@ -70,37 +70,37 @@ Semua Orang Tampaknya Membutuhkan Pemrosesan Data
         </tr> 
         <tr>
             <td>Application</td>
-            <td>Away</td>
-            <td>All</td>
+            <td>Data</td>
+            <td> </td>
         </tr>
         <tr>
             <td>Presentation</td>
-            <td>Pizza</td>
-            <td>People</td>
+            <td>Data</td>
+            <td> </td>
         </tr>
         <tr>
             <td>Session</td>
-            <td>Sausage</td>
-            <td>Seems</td>
+            <td>Data</td>
+            <td> </td>
         </tr>
         <tr>
             <td>Transfort</td>
-            <td>Throw</td>
+            <td>Segment</td>
             <td>To</td>
         </tr>
         <tr>
             <td>Network</td>
-            <td>Not</td>
+            <td>Packet</td>
             <td>Need</td>
         </tr>
         <tr>
             <td>Data Link</td>
-            <td>Do</td>
+            <td>Frames</td>
             <td>Data</td>
         </tr>
         <tr>
             <td>Physical</td>
-            <td>Please</td>
+            <td>Bits</td>
             <td>processing</td>
         </tr>
  </table>
